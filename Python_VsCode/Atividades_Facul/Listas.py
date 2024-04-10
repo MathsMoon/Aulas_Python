@@ -31,5 +31,5 @@ print(nums)
 
 
 #Buscando itens na Lista
-if 20 in nums:
-    printf("Existe sim, na posição: ")
+# if 20 in nums:
+#     printf("Existe sim, na posição: ")
