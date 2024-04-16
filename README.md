@@ -1,6 +1,8 @@
 # Aulas_Python
 Repositório de estudos de Python, aqui vou deixar os meus estudos tanto na faculdade como também as que fiz por conta. Vou tentar atualizar a cada 1 ou 2 semanas, de resto meu projeto para Python vai ser o Mod de DDLC que tenho guardado desde 2019, depois faço um repositório para esse projeto, se possível depois de aprender bastante sobre o Python.
 
+---
+
 ## Estrutura das Pastas
 
 ### 1. Google Colab
