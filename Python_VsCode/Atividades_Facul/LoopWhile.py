@@ -1,21 +1,3 @@
-#Loop while
-# letra = input('Digite uma letra: ')
-
-#Cria um Loop em que caso a letra seja igual a P, repete a pergunta e retorna a pergunta a cada p respondido
-# while(letra == 'p'):
-#     print('Loop do P')
-#     letra = input('Digite uma letra: ')
-
-# print('Saí do Loop')
-
-#Loop que vai somando o count até ser 10
-# count = 0
-
-# while(count <= 10):
-#     print(count)
-#     count += 1
-
-
 #Joguinho de adivinhação
 
 #Biblioteca que gera números aleatórios
